@@ -8,3 +8,5 @@ Task management and progress
 
 
 This is new APikey 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
+
+The new API is also closed by OpenAI, I'm trying other ways to use the APIkey
