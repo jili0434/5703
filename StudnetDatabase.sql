@@ -1,3 +1,11 @@
+DROP TABLE IF EXISTS 
+    Students,
+    Values,
+    Career_orientation,
+    Personality,
+    Creative_Thinking,
+    Family_Info
+CASCADE;
 
 -- create tabkes
 CREATE TABLE Students (
@@ -49,6 +57,7 @@ CREATE TABLE Personality (
     Feeling INT,
     Judging INT,
     Perceiving INT,
+	Result_ CHAR(4),
     FOREIGN KEY (No) REFERENCES Students(Identifier)
 );
 
@@ -66,7 +75,7 @@ CREATE TABLE Family_Info (
     Mother_education VARCHAR(100),
     Father_occupation VARCHAR(100),
     Mother_occupation VARCHAR(100),
-    Annual_budget_usd INT,
+    Annual_budget_usd VARCHAR(100),
     Preferred_FoE_1 VARCHAR(100),
     Preferred_FoE_2 VARCHAR(100),
     Preferred_FoE_3 VARCHAR(100),
@@ -76,6 +85,4 @@ CREATE TABLE Family_Info (
     Preferred_country VARCHAR(50),
     FOREIGN KEY (No) REFERENCES Students(Identifier)
 );
-
-
 
