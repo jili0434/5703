@@ -1,0 +1,227 @@
+timestamp,user_prompt,gpt_response
+2025/4/10 9:35,"{'identifier': 21, 'first_letter_surname': 'J', 'gender': 'Male', 'age': 19, 'first_language': 'English', 'other_language': 'Chinese', 'country_born': 'China', 'current_country': 'Australia', 'current_city': 'Sydney', 'type_of_school': 'Public', 'secondary_qualification': 'Australian Tertiary Admission Rank', 'work_experience': 'Limited', 'dream_career': 'Artist', 'hedonism': 46, 'power_and_status': 16, 'altruism': 36, 'learning_and_achievement': 36, 'finance': 12, 'security': 59, 'artistic': 6, 'social': 21, 'investigative': 56, 'conventional': 31, 'enterprising': 41, 'realistic': 31, 'extrovert': 0, 'introvert': 4, 'sensing': 3, 'intuition_n': 1, 'thinking': 1, 'feeling': 2, 'judging': 1, 'perceiving': 3, 'result_': 'ISFP', 'q1': 5, 'q2': 23, 'q3': 25, 'father_education': 'Bachelor', 'mother_education': 'Diploma', 'father_occupation': 'Management Analyst', 'mother_occupation': 'Bus Driver', 'annual_budget_usd': '5000', 'preferred_foe_1': 'Finance', 'preferred_foe_2': 'Scientist', 'preferred_foe_3': 'Entrepreneur', 'notes': nan, 'concern': 'No', 'support': 'Yes', 'preferred_country': 'UK'}","An error occurred while contacting OpenAI: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Jd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+2025-04-10 09:39:26,"{'identifier': 99, 'first_letter_surname': 'A', 'gender': 'Male', 'age': 17, 'first_language': 'English', 'other_language': 'Chinese', 'country_born': 'United Kingdom', 'current_country': 'UK', 'current_city': 'London', 'type_of_school': 'Public', 'secondary_qualification': 'A Level', 'work_experience': 'Limited', 'dream_career': 'Writer', 'hedonism': 50, 'power_and_status': 8, 'altruism': 6, 'learning_and_achievement': 29, 'finance': 3, 'security': 26, 'artistic': 44, 'social': 56, 'investigative': 11, 'conventional': 24, 'enterprising': 35, 'realistic': 33, 'extrovert': 1, 'introvert': 4, 'sensing': 3, 'intuition_n': 0, 'thinking': 2, 'feeling': 1, 'judging': 2, 'perceiving': 1, 'result_': 'ISTJ', 'q1': 19, 'q2': 8, 'q3': 30, 'father_education': 'Bachelor', 'mother_education': 'Master', 'father_occupation': 'Lawyer', 'mother_occupation': 'Psychiatrist', 'annual_budget_usd': '$90000', 'preferred_foe_1': 'Psychiatrist', 'preferred_foe_2': 'Lawyer', 'preferred_foe_3': 'Doctor', 'notes': nan, 'concern': 'Yes', 'support': 'Yes', 'preferred_country': 'New Zealand'}","An error occurred while contacting OpenAI: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Jd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+2025-04-10 09:40:30,"{'identifier': 27, 'first_letter_surname': 'H', 'gender': 'Female', 'age': 12, 'first_language': 'French', 'other_language': 'Spanish', 'country_born': 'France', 'current_country': 'China', 'current_city': 'Hangzhou', 'type_of_school': 'International', 'secondary_qualification': 'International Baccalaureate', 'work_experience': 'Limited', 'dream_career': 'Chef', 'hedonism': 49, 'power_and_status': 9, 'altruism': 24, 'learning_and_achievement': 48, 'finance': 18, 'security': 58, 'artistic': 15, 'social': 28, 'investigative': 16, 'conventional': 40, 'enterprising': 19, 'realistic': 35, 'extrovert': 2, 'introvert': 1, 'sensing': 1, 'intuition_n': 2, 'thinking': 3, 'feeling': 1, 'judging': 0, 'perceiving': 3, 'result_': 'ENTP', 'q1': 11, 'q2': 3, 'q3': 21, 'father_education': 'Bachelor', 'mother_education': 'Bachelor', 'father_occupation': 'Pilot', 'mother_occupation': 'Nurse Midwife', 'annual_budget_usd': '60000', 'preferred_foe_1': 'Finance', 'preferred_foe_2': 'Aviation', 'preferred_foe_3': nan, 'notes': nan, 'concern': 'No', 'support': 'Yes', 'preferred_country': 'Canada'}","An error occurred while contacting OpenAI: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Jd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+2025-04-10 09:44:08,"{'identifier': 58, 'first_letter_surname': 'J', 'gender': 'Female', 'age': 17, 'first_language': 'English', 'other_language': 'German', 'country_born': 'Switzerland', 'current_country': 'Australia', 'current_city': 'Sydney', 'type_of_school': 'Private', 'secondary_qualification': 'Australian Tertiary Admission Rank', 'work_experience': 'Limited', 'dream_career': 'Psychologist', 'hedonism': 28, 'power_and_status': 21, 'altruism': 25, 'learning_and_achievement': 23, 'finance': 27, 'security': 10, 'artistic': 40, 'social': 42, 'investigative': 3, 'conventional': 56, 'enterprising': 44, 'realistic': 32, 'extrovert': 4, 'introvert': 1, 'sensing': 4, 'intuition_n': 0, 'thinking': 2, 'feeling': 0, 'judging': 0, 'perceiving': 4, 'result_': 'ESTP', 'q1': 13, 'q2': 10, 'q3': 19, 'father_education': 'Bachelor', 'mother_education': 'PhD', 'father_occupation': 'Genetic Counselor', 'mother_occupation': 'Statistician', 'annual_budget_usd': '$40000', 'preferred_foe_1': 'Psychologist', 'preferred_foe_2': 'Therapist', 'preferred_foe_3': 'Teacher', 'notes': nan, 'concern': 'Yes', 'support': 'Yes', 'preferred_country': 'New Zealand'}","An error occurred while contacting OpenAI: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Jd4A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+2025-04-10 09:45:47,"{'identifier': 90, 'first_letter_surname': 'J', 'gender': 'Female', 'age': 17, 'first_language': 'English', 'other_language': 'Spanish', 'country_born': 'United Kingdom', 'current_country': 'Australia', 'current_city': 'Melbourne', 'type_of_school': 'Public', 'secondary_qualification': 'Australian Tertiary Admission Rank', 'work_experience': 'Limited', 'dream_career': 'Actor', 'hedonism': 27, 'power_and_status': 53, 'altruism': 49, 'learning_and_achievement': 23, 'finance': 37, 'security': 7, 'artistic': 16, 'social': 13, 'investigative': 59, 'conventional': 20, 'enterprising': 45, 'realistic': 56, 'extrovert': 0, 'introvert': 3, 'sensing': 0, 'intuition_n': 4, 'thinking': 2, 'feeling': 1, 'judging': 0, 'perceiving': 2, 'result_': 'INTP', 'q1': 9, 'q2': 6, 'q3': 2, 'father_education': nan, 'mother_education': 'Bachelor', 'father_occupation': nan, 'mother_occupation': 'Actuary', 'annual_budget_usd': 'no upper limit', 'preferred_foe_1': 'Up to child', 'preferred_foe_2': 'Up to child', 'preferred_foe_3': 'Up to child', 'notes': nan, 'concern': 'Other', 'support': 'unsure', 'preferred_country': 'New Zealand'}","## Career Guidance for J
+
+### Overview
+J is a 17-year-old female currently residing in Melbourne, Australia, with a dream of becoming an actor. She values learning, achievement, and investigative activities. J's Myers-Briggs Type Indicator (MBTI) result is INTP, indicating she is innovative, analytical, and enjoys exploring possibilities.
+
+### Education and Career Path
+1. **Education**: Pursue a Bachelor's degree in Acting, Performing Arts, or Film Studies to build foundational knowledge and skills in acting.
+   
+2. **Experience**: Gain practical experience through local theater productions, acting workshops, and student films to develop your craft.
+   
+3. **Networking**: Attend acting classes, events, and join acting communities to network with industry professionals and other actors.
+   
+4. **Internships**: Look for internships at theaters, production companies, or casting agencies to gain industry exposure.
+
+### Financial Considerations
+Given your family has no upper budget limit, you may consider investing in high-quality acting classes, workshops, and networking events to enhance your skills and opportunities in the industry.
+
+### Cultural Background and Language Skills
+Your English and Spanish language proficiency can be an asset in the acting industry, especially in multicultural settings. Consider roles that may require bilingual actors to leverage your language skills.
+
+### Personal Values and Interests
+1. **Altruism**: Explore acting opportunities that align with your values and allow you to contribute positively to society through impactful roles.
+   
+2. **Artistic Expression**: Embrace your artistic side by experimenting with various acting styles and techniques to enhance your versatility as an actor.
+
+### Location Preference and Support
+Although you prefer New Zealand, consider exploring acting opportunities in Australia's vibrant entertainment industry first. Seek support from your family, especially your mother, who is an actuary, for guidance on managing finances and pursuing your acting career.
+
+### Conclusion
+J, with your passion for acting, analytical skills, and supportive family, you have the potential to pursue a successful acting career. Stay dedicated, continue honing your craft, and seize opportunities to showcase your talent in the competitive yet rewarding field of acting. Your journey to becoming a professional actor is full of promise and creative fulfillment. Good luck!"
+2025-04-16 10:28:46,"{'identifier': 79, 'first_letter_surname': 'R', 'gender': 'Female', 'age': 17, 'first_language': 'Chinese', 'other_language': 'Japanese', 'country_born': 'China', 'current_country': 'China', 'current_city': 'Nanning', 'type_of_school': 'International', 'secondary_qualification': 'International Baccalaureate', 'work_experience': nan, 'dream_career': 'Construction', 'hedonism': 6, 'power_and_status': 47, 'altruism': 12, 'learning_and_achievement': 25, 'finance': 5, 'security': 56, 'artistic': 41, 'social': 18, 'investigative': 24, 'conventional': 48, 'enterprising': 38, 'realistic': 12, 'extrovert': 4, 'introvert': 0, 'sensing': 2, 'intuition_n': 0, 'thinking': 4, 'feeling': 0, 'judging': 1, 'perceiving': 4, 'result_': 'ESTP', 'q1': 25, 'q2': 16, 'q3': 2, 'father_education': 'Certificate', 'mother_education': 'Master', 'father_occupation': 'Civil Engineer', 'mother_occupation': 'Dentist', 'annual_budget_usd': 'no upper limit', 'preferred_foe_1': 'Dentist', 'preferred_foe_2': 'Politician', 'preferred_foe_3': nan, 'notes': nan, 'concern': 'No', 'support': 'unsure', 'preferred_country': 'UK'}","An error occurred while contacting OpenAI: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************rAEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+2025-04-16 11:28:40,"{'identifier': 120, 'first_letter_surname': 'E', 'gender': 'Male', 'age': 15, 'first_language': 'Chinese', 'other_language': 'English', 'country_born': 'China', 'current_country': 'Australia', 'current_city': 'Sydney', 'type_of_school': 'Private', 'secondary_qualification': 'HSC', 'work_experience': 'Limited', 'dream_career': 'Engineer', 'hedonism': 13, 'power_and_status': 22, 'altruism': 17, 'learning_and_achievement': 41, 'finance': 36, 'security': 21, 'artistic': 25, 'social': 22, 'investigative': 27, 'conventional': 24, 'enterprising': 22, 'realistic': 15, 'extrovert': 0, 'introvert': 2, 'sensing': 0, 'intuition_n': 0, 'thinking': 1, 'feeling': 0, 'judging': 0, 'perceiving': 3, 'result_': 'ISTP', 'q1': 3, 'q2': 4, 'q3': 4, 'father_education': 'Bachelor', 'mother_education': 'Bachelor', 'father_occupation': 'Stock trader', 'mother_occupation': 'Civil Servant', 'annual_budget_usd': '$70000', 'preferred_foe_1': 'Doctor', 'preferred_foe_2': 'Engineer', 'preferred_foe_3': 'Actuary', 'notes': nan, 'concern': 'No', 'support': 'Yes', 'preferred_country': 'Australia'}","### Fields of Education Recommendations:
+
+1. **Engineering**
+   - **Reasons for Recommendation:**
+     - *Dream Career Alignment:* The student's dream career is to become an Engineer, aligning well with his aspirations.
+     - *Career Interest Scores:* The student has a strong interest in investigative and realistic fields, crucial for engineering disciplines.
+   - **Relevant Program:** Bachelor of Engineering (Honours) at the University of New South Wales (UNSW), Australia.
+   - **Graduation Exam:** Higher School Certificate (HSC) with a minimum ATAR requirement of 80.
+   - **Career Pathway:** Graduates can pursue roles in various engineering sectors like civil, mechanical, or electrical engineering.
+
+2. **Computer Science**
+   - **Reasons for Recommendation:**
+     - *Interest in Investigative Tasks:* The student's investigative inclination suits the analytical nature of computer science.
+     - *Realistic Preference:* Computer Science offers practical and technical aspects, matching the student's realistic trait.
+   - **Relevant Program:** Bachelor of Computer Science at the University of Sydney, Australia.
+   - **Graduation Exam:** Higher School Certificate (HSC) with a minimum ATAR requirement of 85.
+   - **Career Pathway:** Graduates can work as software developers, systems analysts, or IT consultants.
+
+3. **Mathematics**
+   - **Reasons for Recommendation:**
+     - *Aligned with Dream Career:* Mathematics skills are essential for various engineering roles, supporting the student's goal.
+     - *Logical Reasoning:* Strong logical reasoning abilities, as evident from the analysis in the scenario questions.
+   - **Relevant Program:** Bachelor of Science in Mathematics at the Australian National University (ANU).
+   - **Graduation Exam:** Higher School Certificate (HSC) with a minimum ATAR requirement of 75.
+   - **Career Pathway:** Graduates can pursue careers in data analysis, actuarial science, or research positions.
+
+In case the student insists on pursuing a career different from Engineering, it would be beneficial to explore additional technical fields like Computer Science or Mathematics, which can still lead to diverse career opportunities while leveraging the student's interests and strengths."
+2025-04-16 11:46:37,"{'identifier': 10, 'first_letter_surname': 'D', 'gender': 'Male', 'age': 16, 'first_language': 'German', 'other_language': 'Chinese', 'country_born': 'China', 'current_country': 'China', 'current_city': 'Changchun', 'type_of_school': 'Private', 'secondary_qualification': 'International Baccalaureate', 'work_experience': 'Limited', 'dream_career': 'Automobile', 'hedonism': 46, 'power_and_status': 1, 'altruism': 13, 'learning_and_achievement': 39, 'finance': 4, 'security': 30, 'artistic': 10, 'social': 3, 'investigative': 10, 'conventional': 17, 'enterprising': 35, 'realistic': 4, 'extrovert': 2, 'introvert': 1, 'sensing': 4, 'intuition_n': 0, 'thinking': 2, 'feeling': 0, 'judging': 4, 'perceiving': 1, 'result_': 'ESTJ', 'q1': 11, 'q2': 7, 'q3': 17, 'father_education': 'Certificate', 'mother_education': 'Master', 'father_occupation': 'Veterinarian assistant', 'mother_occupation': 'Technical Writer', 'annual_budget_usd': '$10000', 'preferred_foe_1': 'Up to child', 'preferred_foe_2': nan, 'preferred_foe_3': nan, 'notes': nan, 'concern': 'No', 'support': 'No', 'preferred_country': 'Australia'}","### Recommended Fields of Education (FOE)
+
+1. **Automobile Engineering**
+   - **Primary Reasons for Recommendation:**
+     - The dream career is ""Automobile"", directly aligning with this field. The student's investigative score of 10 indicates a logical reasoning ability suitable for engineering challenges in the automobile sector.
+     - The enterprising score is relatively high (35), indicating an interest in leadership and management within the automotive industry, which can be cultivated through this program.
+   - **University and Program Recommendations:**
+     - **University of Queensland (UQ)** - Bachelor of Engineering (Honours) - Major in Mechanical/Automobile Engineering
+     - **Monash University** - Bachelor of Engineering (Honours) - Specialization in Automotive Engineering
+   - **Graduation Exam:** International Baccalaureate (IB)
+   - **Minimum Score Requirement:** Generally around 30 points for direct entry into engineering programs.
+   - **Special Exams:** Most programs do not require special exams; however, a strong performance in mathematics and physics would be important.
+   - **Career Ladder:** Upon graduation, the typical pathway could include roles as a Junior Engineer, followed by progression to Project Manager or Engineering Manager, ultimately reaching Executive roles in automobile companies.
+
+2. **Mechanical Engineering**
+   - **Primary Reasons for Recommendation:**
+     - Mechanical engineering relates closely to automobile engineering, allowing for a broader exploration of engineering principles applicable to vehicles.
+     - The student's preference for practical, hands-on careers (realistic score of 4) makes this field suitable, emphasizing technical skills and real-world applications.
+   - **University and Program Recommendations:**
+     - **University of Melbourne** - Bachelor of Engineering (Mechanical)
+     - **RMIT University** - Bachelor of Engineering (Mechanical Engineering)
+   - **Graduation Exam:** International Baccalaureate (IB)
+   - **Minimum Score Requirement:** Approximately 30 points for competitive programs.
+   - **Special Exams:** Standard entry without additional exams, focusing on strong performance in key subjects like mathematics and physics.
+   - **Career Ladder:** Graduates typically start as Design Engineers, then advance to Senior Engineer, Engineering Consultant, and potentially into managerial roles in engineering departments.
+
+3. **Industrial Design**
+   - **Primary Reasons for Recommendation:**
+     - Although the artistic score is low (10), industrial design incorporates aspects of engineering as well as product design, focusing on creating functional vehicle designs.
+     - The field allows for a creative outlet that aligns with the student’s interest in practical applications coupled with some degree of artistic expression.
+   - **University and Program Recommendations:**
+     - **Swinburne University of Technology** - Bachelor of Design (Industrial Design)
+     - **Universitiy of Technology Sydney (UTS)** - Bachelor of Design in Product Design
+   - **Graduation Exam:** International Baccalaureate (IB)
+   - **Minimum Score Requirement:** Typically around 30 points, subject to portfolio assessment.
+   - **Special Exams:** Portfolio submission required, showcasing design works, and a possible interview.
+   - **Career Ladder:** Graduates often begin as Junior Designers, moving to Product Designers, and can progress to lead design roles or entrepreneurial ventures.
+
+4. **Automotive Technology**
+   - **Primary Reasons for Recommendation:**
+     - This program offers a balance between theoretical knowledge and practical skills needed for a career in the automotive sector, aligning with the dream career in automobiles.
+     - The realistic interest is suitably catered to by this technical field, emphasizing practical training.
+   - **University and Program Recommendations:**
+     - **TAFE Queensland** - Diploma of Automotive Technology
+   - **Graduation Exam:** Depending on the institution, high school completion certification required.
+   - **Minimum Score Requirement:** No specific score, but completion of relevant secondary education advisable.
+   - **Special Exams:** Some courses may require prior practical experience or assessments on mechanical skills.
+   - **Career Ladder:** Graduates can start as Automotive Technicians, progressing to Specialized Technicians and eventually Automotive Service Managers.
+
+### Optional Suggestion
+If the student insists on pursuing ""Automobile"" despite variations in academic interest, it’s advisable to consider combining engineering studies with internships in the automotive industry to gain practical experience. Engaging in extracurricular activities like automotive clubs or competitions can also be beneficial for personal development and networking in the automobile field."
+2025-04-16 13:28:09,"{'identifier': 119, 'first_letter_surname': 'A', 'gender': 'Female', 'age': 16, 'first_language': 'German', 'other_language': 'French', 'country_born': 'Germany', 'current_country': 'Australia', 'current_city': 'Hobart', 'type_of_school': 'Public', 'secondary_qualification': 'VCE', 'work_experience': 'Limited', 'dream_career': 'Teacher', 'hedonism': 15, 'power_and_status': 20, 'altruism': 5, 'learning_and_achievement': 35, 'finance': 25, 'security': 30, 'artistic': 20, 'social': 25, 'investigative': 40, 'conventional': 15, 'enterprising': 35, 'realistic': 20, 'extrovert': 0, 'introvert': 3, 'sensing': 3, 'intuition_n': 0, 'thinking': 3, 'feeling': 0, 'judging': 0, 'perceiving': 2, 'result_': 'ISTP', 'q1': 25, 'q2': 20, 'q3': 15, 'father_education': 'Diploma', 'mother_education': 'Diploma', 'father_occupation': 'Marriage and Family Therapist', 'mother_occupation': 'Actuary', 'annual_budget_usd': '$70000', 'preferred_foe_1': 'Doctor', 'preferred_foe_2': 'Accountant', 'preferred_foe_3': 'Actor', 'notes': nan, 'concern': 'Yes', 'support': 'Yes', 'preferred_country': 'Canada'}","**Recommended Fields of Education (FOE)**
+
+1. **Education (Teaching)**
+   - **Reasons for Recommendation**: 
+     - The student's ambitious nature and a high investigative score (40) suggest a strong capability in analysis, which is vital for educators in planning lessons and assessing student needs.
+     - With a moderate social score (25), the student has some inclination toward communication and working with others, which is beneficial in a teaching environment where collaboration is key.
+   - **University and Program Recommendation**: 
+     - University of Melbourne – Master of Teaching (Secondary).
+     - Australian National University – Bachelor of Education (Secondary).
+   - **Graduation Exam**: ATAR.
+   - **Minimum ATAR Requirement**: 70 (subject to change, it's advisable to check directly with universities).
+   - **Special Examination Requirements**: Some programs may require an interview or portfolio demonstrating teaching philosophy or experience with children, but exact requirements should be checked with the institution.
+   - **Typical Career Ladder**: Start as a Teacher -> Senior Teacher -> Head of Department -> School Principal.
+
+2. **Social Work**
+   - **Reasons for Recommendation**: 
+     - Although the altruism score is low (5), the interest in social activities (social score of 25) and a desire for learning (learning_and_achievement score of 35) can lend themselves well to a career in social work, which often involves supporting and assisting others through their education journey.
+     - A moderate enterprising score (35) indicates a potential for leadership within social work, including program management or advocacy roles.
+   - **University and Program Recommendation**: 
+     - Monash University – Bachelor of Social Work.
+     - University of Sydney – Bachelor of Social Work.
+   - **Graduation Exam**: ATAR.
+   - **Minimum ATAR Requirement**: 75.
+   - **Special Examination Requirements**: Usually no specific exams, but a strong commitment to community service and understanding of social issues is necessary.
+   - **Typical Career Ladder**: Start as a Social Worker -> Senior Social Worker -> Manager of Social Services -> Director of Social Services.
+
+3. **Psychology**
+   - **Reasons for Recommendation**: 
+     - The investigative score (40) indicates strong analytical abilities, essential in understanding psychological principles and conducting research.
+     - The enterprising score (35) reflects a potential inclination toward taking initiative and leading projects or studies, which aligns with various pathways within psychology.
+   - **University and Program Recommendation**: 
+     - University of Queensland – Bachelor of Psychology.
+     - University of New South Wales – Bachelor of Psychology.
+   - **Graduation Exam**: ATAR.
+   - **Minimum ATAR Requirement**: 85.
+   - **Special Examination Requirements**: No special exams, but relevant experience or a personal statement highlighting interest in psychology may be beneficial.
+   - **Typical Career Ladder**: Start as a Psychologist -> Clinical Psychologist -> Research Psychologist -> University Lecturer.
+
+4. **Business (with focus on Education Management)**
+   - **Reasons for Recommendation**: 
+     - The enterprising score of 35 suggests an interest in leadership and management, which may appeal to students considering educational administration positions in schools.
+     - The realistic score (20) shows some openness towards practical subjects like business, allowing for a focus on education management.
+   - **University and Program Recommendation**: 
+     - Deakin University – Bachelor of Business (Education Management).
+     - University of Technology Sydney – Bachelor of Business.
+   - **Graduation Exam**: ATAR.
+   - **Minimum ATAR Requirement**: 80.
+   - **Special Examination Requirements**: No specific requirements, but a portfolio of extracurricular activities could be beneficial.
+   - **Typical Career Ladder**: Start as Educational Consultant -> School Manager -> Director or Superintendent -> Educational Policy Advisor.
+
+**Optional Suggestions for Pursuing the Dream Career (Teacher)**
+While teaching aligns somewhat with values and interests, the student may consider increasing engagement in social activities, volunteering in education environments, or gaining experience through internships. They could also explore educational workshops or tutoring, helping connect their investigative skills with practical teaching experiences. 
+
+If the current path does not align perfectly with their dream career aspirations, it would be beneficial for the student to build knowledge in pedagogical theories, enhance their communication skills through electives electives, and potentially pursue additional certifications that may enhance teaching effectiveness or leadership capabilities in the educational sector."
+2025-04-17 10:43:55,"{'identifier': 82, 'first_letter_surname': 'A', 'gender': 'Male', 'age': 16, 'first_language': 'German', 'other_language': 'English', 'country_born': 'Germany', 'current_country': 'Singapore', 'current_city': 'Singapore', 'type_of_school': 'International', 'secondary_qualification': 'International Baccalaureate', 'work_experience': 'Limited', 'dream_career': 'Teacher', 'hedonism': 4, 'power_and_status': 1, 'altruism': 41, 'learning_and_achievement': 37, 'finance': 57, 'security': 56, 'artistic': 2, 'social': 22, 'investigative': 56, 'conventional': 2, 'enterprising': 59, 'realistic': 34, 'extrovert': 1, 'introvert': 4, 'sensing': 4, 'intuition_n': 1, 'thinking': 4, 'feeling': 0, 'judging': 1, 'perceiving': 2, 'result_': 'ISTP', 'q1': 12, 'q2': 8, 'q3': 11, 'father_education': 'Diploma', 'mother_education': 'Bachelor', 'father_occupation': 'Software Developer', 'mother_occupation': 'Medical and Health Services Manager', 'annual_budget_usd': '$20000', 'preferred_foe_1': 'Consultant', 'preferred_foe_2': 'Entrepreneur', 'preferred_foe_3': 'Actor', 'notes': nan, 'concern': 'No', 'support': 'Yes', 'preferred_country': 'Australia'}","**Brief Information:**
+- **Dream Career:** Teacher
+- **Career Interest Scores and Core Values (ranked by score from high to low):**
+  - Investigative: 56 
+  - Enterprising: 59
+  - Finance: 57
+  - Security: 56
+  - Learning and Achievement: 37
+  - Altruism: 41
+  - Social: 22
+  - Hedonism: 4
+  - Power and Status: 1
+  - Conventional: 2
+  - Realistic: 34
+  - Artistic: 2
+
+- **MBTI Personality Type:** ISTP
+  - **Advantages:** ISTPs are often logical and practical thinkers. They tend to excel in hands-on tasks and enjoy solving problems, which can be beneficial in various careers, especially in education through demonstrating concepts and engaging students practically.
+  - **Limitations:** Their introverted nature might make it challenging in social settings, perhaps limiting interaction and relationship-building essential in teaching. They may also prefer less structured environments, which the education system can sometimes constrain.
+
+**Recommended Fields of Education (FOE):**
+1. **Education Studies**
+   - **Reasons for Recommendation:**
+     - The student displays high investigative scores (56), suggesting strong analytical skills, useful for lesson planning and educational research.
+     - A high finance score (57) indicates an appreciation of the value of education, which can translate into effective management in educational administration if the student selects pathways leading to educational leadership roles.
+     - With a significant interest in altruism (41), pursuing education aligns with their desire to make a difference in students' lives.
+   - **Recommended Programs:** Bachelor of Education in Australia
+   - **Graduation Exam:** ATAR (Australian Tertiary Admission Rank)
+   - **Minimum Requirement:** Typically requires an ATAR of around 75-80, depending on the university.
+   - **Career Pathway:** Graduates often begin as teachers and can progress to roles like educational coordinators and school leaders.
+
+2. **Business Management**
+   - **Reasons for Recommendation:**
+     - With high enterprising scores (59), the student possesses leadership qualities that are essential in managing a classroom or school environment.
+     - A focus on finance (57) suggests a comfort with economic aspects, making business management an excellent alternative for teaching entrepreneurship in educational settings.
+     - High investigative skills (56) allow the student to critically assess business situations, beneficial in any educational context.
+   - **Recommended Programs:** Bachelor of Business Administration in Australia
+   - **Graduation Exam:** ATAR
+   - **Minimum Requirement:** Generally requires an ATAR between 70-80.
+   - **Career Pathway:** This can lead to roles as educational consultants, where one can blend educational knowledge and business insight, potentially leading to teaching in business-related subjects.
+
+3. **Psychology**
+   - **Reasons for Recommendation:**
+     - High investigative (56) and moderate altruism (41) scores indicate an interest in understanding human behavior, which can translate well into teaching methodologies.
+     - Knowledge in psychology can enhance the student’s ability to connect with learners, making education more effective.
+     - Implications of finance (57) could indicate a desire for a stable career, which psychology offers, especially in educational settings.
+   - **Recommended Programs:** Bachelor of Psychology in Australia
+   - **Graduation Exam:** ATAR
+   - **Minimum Requirement:** Typically requires an ATAR of around 75-80.
+   - **Career Pathway:** Graduates often pursue roles in educational psychology or counseling, which can directly feed back into effective teaching strategies.
+
+**Optional Section: Addressing Dream Career Pursuit**
+Despite the mismatch between the student's dream career of becoming a teacher and their higher scores in finance and enterprising fields, pursuing this dream is still feasible. The student may consider:
+- Engaging in additional courses or programs that provide pedagogical strategies to enhance teaching capabilities.
+- Seeking mentorship from experienced educators to gain practical insights into teaching dynamics.
+- Exploring opportunities such as volunteering in educational settings to build experience and confidence.
+- Focusing on integrating business management expertise with educational practice for future career versatility. 
+
+With dedication and focus, the student can bridge their personal interests and dream career effectively."
