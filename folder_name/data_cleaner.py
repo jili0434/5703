@@ -115,12 +115,19 @@ def handle_merged_level_cleaning(df):
     - Clean 'concern' column
     - Drop rows missing critical fields
     """
-    # Handle budget
-    if 'annual_budget_usd (usd)' in df.columns:
-        max_val = df['annual_budget_usd (usd)'].max()
-        df['annual_budget_usd (usd)'] = df['annual_budget_usd (usd)'].fillna(max_val * 1.1)
+    import pandas as pd
 
-    # Drop rows missing essential qualification
+    # Step 1: 清洗预算列
+    if 'annual_budget_usd' in df.columns:
+        # 去除 "$" 和 ","，然后转换为数值型
+        df['annual_budget_usd'] = df['annual_budget_usd'].replace({r'\$': '', ',': ''}, regex=True)
+        df['annual_budget_usd'] = pd.to_numeric(df['annual_budget_usd'], errors='coerce')
+
+        # 用最大值的 1.1 倍填补缺失值
+        max_val = df['annual_budget_usd'].max()
+        df['annual_budget_usd'] = df['annual_budget_usd'].fillna(max_val * 1.1)
+
+    # Step 2: 删除缺失关键字段的行
     df = df.dropna(subset=['secondary_qualification'])
 
     # Fill MBTI
