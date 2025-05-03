@@ -21,7 +21,11 @@ CREATE TABLE Students (
     Type_of_school VARCHAR(50),
     Secondary_qualification VARCHAR(50),
     Work_experience VARCHAR(50),
-    Dream_career VARCHAR(50)
+    Dream_career VARCHAR(50),
+    Academic INT,
+    Subject_1 INT,
+    Subject_2 INT,
+    Subject_3 INT
 );
 
 CREATE TABLE Values (

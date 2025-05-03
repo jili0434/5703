@@ -32,6 +32,17 @@ def load_data_to_db(config, excel_path):
 
     for table_name, sheet_name in table_sheet_info.items():
         df = xlsx.parse(sheet_name)
+
+        # 针对特定表格裁剪列数
+        column_limits = {
+            "students": 15,
+            "values": 7,
+            "career_orientation": 7,
+            "personality": 10
+        }
+        if table_name in column_limits:
+            df = df.iloc[:, :column_limits[table_name]]
+
         records = df.values.tolist()
         placeholders = ', '.join(['%s'] * df.shape[1])
         insert_sql = f'INSERT INTO {table_name} VALUES ({placeholders})'
